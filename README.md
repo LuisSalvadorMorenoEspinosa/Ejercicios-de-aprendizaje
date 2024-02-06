@@ -1,3 +1,3 @@
-# ir-reorganizando
+# Ejercicios-de-aprendizaje
 
-Tienes que reorganizar este repositorio, poniendo cada cosa en su lugar
+Ejercicios necesarios para aprender en distintos formatos
